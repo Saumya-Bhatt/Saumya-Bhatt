@@ -30,7 +30,7 @@
 
 <img align="left" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" />
 <img align="left" alt="NodeJS" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/nodejs-226032.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/1600/mongodb.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://ilhamksyuriadi.com/images/skills/mongodb-logo.png" />
 
 <img align="left" alt="Figma" width="26px" src="https://2.bp.blogspot.com/-KVFNcyNJpmc/XIe-Sqa674I/AAAAAAAAIuk/VRK5WWydfD4yjMq_AkU6B2h3WAROEvOMgCK4BGAYYCw/s1600/logo%2Bfigma%2Bicon.png" />
 <img align="left" alt="Android Studio" width="26px" src="https://1.bp.blogspot.com/-DAAJWGccTCQ/We_MGiMuSFI/AAAAAAAAEtk/5_COppUTDusIIx725jENI3fd9rqlRl0gQCLcBGAs/s1600/image8.png" />
