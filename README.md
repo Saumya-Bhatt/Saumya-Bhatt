@@ -3,7 +3,7 @@
 ### Hi there, I'm Saumi - aka [Saumya][website] 👋
 
 ## I'm a 3rd year undergraduate student at BITS Goa.
-- 👯 I’m looking for summer internships in the field of python and/or software development
+- 👯 I’m looking for summer internships in the field of software/web development
 - 🥅 Loves Football, Formula One and Food!
 - 😄 Pronouns: He/Him
 - 🍿 Checkput my movie review blog over here! [Movies By the Sea](http://movies-by-the-sea.herokuapp.com/)! 
@@ -20,11 +20,20 @@
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Latex" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="C++" width="26px" src="https://juststickers.in/wp-content/uploads/2016/09/c-plus-plus.png" />
+<img align="left" alt="Java" width="26px" src="https://tinycode.hk/wp-content/uploads/2015/01/java-logo-png-300x300.png" />
+<img align="left" alt="Javascript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Javascript-shield.png" />
+
+
+<img align="left" alt="Firebase" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/firebase-1-logo-png-transparent.png" />
+<img align="left" alt="Heroku" width="26px" src="https://hadrienj.github.io/assets/images/icons/heroku.png" />
+
+<img align="left" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" />
+<img align="left" alt="NodeJS" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/nodejs-226032.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/1600/mongodb.png" />
+
+<img align="left" alt="Figma" width="26px" src="https://2.bp.blogspot.com/-KVFNcyNJpmc/XIe-Sqa674I/AAAAAAAAIuk/VRK5WWydfD4yjMq_AkU6B2h3WAROEvOMgCK4BGAYYCw/s1600/logo%2Bfigma%2Bicon.png" />
+<img align="left" alt="Android Studio" width="26px" src="https://1.bp.blogspot.com/-DAAJWGccTCQ/We_MGiMuSFI/AAAAAAAAEtk/5_COppUTDusIIx725jENI3fd9rqlRl0gQCLcBGAs/s1600/image8.png" />
 
 
 ---
