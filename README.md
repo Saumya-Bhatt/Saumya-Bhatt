@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Saumi - aka [Saumya][website] 👋
 
-## I'm a 3rd year undergraduate student at BITS Goa.
+## I'm a 4th year undergraduate student at BITS Goa.
 - 👯 I’m looking for summer internships in the field of software/web development
 - 🥅 Loves Football, Formula One and Food!
 - 😄 Pronouns: He/Him
@@ -25,7 +25,7 @@
 <img align="left" alt="Javascript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Javascript-shield.png" />
 
 
-<img align="left" alt="Firebase" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/firebase-1-logo-png-transparent.png" />
+<img align="left" alt="Firebase" width="25px" src="https://cdn.freebiesupply.com/logos/large/2x/firebase-1-logo-png-transparent.png" />
 <img align="left" alt="Heroku" width="26px" src="https://hadrienj.github.io/assets/images/icons/heroku.png" />
 
 <img align="left" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" />
