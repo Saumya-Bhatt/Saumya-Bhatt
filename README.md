@@ -9,9 +9,9 @@
 - 🍿 Check out my movie review blog over here! [Movies By the Sea](https://mbts.studio)! 
 
 ### Connect with me:
-- On [LinkedIn] (https://www.linkedin.com/in/saumya-bhatt-2000/)
-- On [Medium] ( https://medium.com/@SaumyaBhatt106)
-- Mail me at : saumya.bhatt106@gmail.com
+- On [LinkedIn](https://www.linkedin.com/in/saumya-bhatt-2000/)
+- On [Medium](https://medium.com/@SaumyaBhatt106)
+- Mail me at: saumya.bhatt106@gmail.com
 
 ---
 
