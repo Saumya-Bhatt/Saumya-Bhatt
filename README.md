@@ -1,6 +1,6 @@
 
 
-### Hi there, I'm Saumi - aka [Saumya]((https://saumya-bhatt.github.io/me/)) 👋
+### Hi there, I'm Saumi - aka [Saumya](https://saumya-bhatt.github.io/me/) 👋
 
 ## I'm a Backend Developer.
 - 👯 Did my B'Tech from BITS Pilani, Goa Campus
