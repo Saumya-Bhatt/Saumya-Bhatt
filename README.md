@@ -13,6 +13,8 @@
 - On [Medium](https://medium.com/@SaumyaBhatt106)
 - Mail me at: saumya.bhatt106@gmail.com
 
+![[Medium](https://medium.com/@SaumyaBhatt106)](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+
 ---
 
 <img align="left" alt="Saumya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Saumya-Bhatt&show_icons=true&hide_border=true" />
