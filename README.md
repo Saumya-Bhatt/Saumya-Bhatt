@@ -11,7 +11,7 @@
 ### Connect with me:
 - On [LinkedIn](https://www.linkedin.com/in/saumya-bhatt-2000/)
 - On [Medium](https://medium.com/@SaumyaBhatt106)
-- Mail me at: saumya.bhatt106@gmail.com
+- At: saumya.bhatt106@gmail.com
   
 ---
 
