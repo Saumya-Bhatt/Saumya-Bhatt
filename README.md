@@ -1,10 +1,10 @@
 
 
-### Hi there, I'm Saumi - aka [Saumya](https://saumya-bhatt.github.io/me/) 👋
+### Hi there, I'm Saumi - aka [Saumya](https://saumya-bhatt.github.io/) 👋
 
 ## I'm a Backend Developer.
 - 👯 Did my B'Tech from BITS Pilani, Goa Campus
-- 🥅 Loves Football, Formula One, and Food!
+- 🥅 Loves Football, Formula One, and cats!
 - 😄 Pronouns: He/Him
 - 🍿 Check out my movie review blog over here! [Movies By the Sea](https://mbts.studio)! 
 
