@@ -2,6 +2,8 @@
 
 ### Hi there, I'm Saumi - aka [Saumya](https://saumya-bhatt.github.io/) 👋
 
+Experienced software engineer with nearly three years of expertise in backend development. Proficient in constructing near real-time services utilizing Apache Kafka and event-driven microservices, as well as crafting data pipelines to support machine learning applications. Additionally, possess hands-on proficiency in frontend stack and web development.
+
 ## I'm a Backend Developer.
 - 👯 Did my B'Tech from BITS Pilani, Goa Campus
 - 🥅 Loves Football, Formula One, and cats!
