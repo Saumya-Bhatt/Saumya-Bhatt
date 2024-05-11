@@ -8,7 +8,7 @@ Experienced software engineer with nearly three years of expertise in backend de
 - 👯 Did my B'Tech from BITS Pilani, Goa Campus
 - 🥅 Loves Football, Formula One, and cats!
 - 😄 Pronouns: He/Him
-- 🍿 Check out my movie review blog over here! [Movies By the Sea](https://mbts.studio)! 
+- 🍿 Check out my movie review blog over here! [Movies By the Sea](https://movies-by-the-sea.github.io/)! 
 
 ### Connect with me:
 - On [LinkedIn](https://www.linkedin.com/in/saumya-bhatt-2000/)
